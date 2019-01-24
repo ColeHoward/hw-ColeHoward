@@ -1,2 +1,2 @@
-# hw-ColeHoward
+# hw-colehowa
 HW 1
